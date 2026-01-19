@@ -36,3 +36,12 @@ I'm a **Software Development student** at **FATEC** and a **Data Engineer** base
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </div>
+
+<br>
+<div align="center">
+  <h3>📊 Data Operative Stats</h3>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduSoBarbosa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff&text_color=c9d1d9"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduSoBarbosa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9"/>
+  </a>
+</div>
