@@ -8,6 +8,8 @@ I'm a **Software Development student** at **FATEC** and a **Data Engineer** base
 * 🎯 **Career Objective:** Building a solid foundation in Brazil before taking my skills globally to Europe.
 * 💬 **Ask me about:** Web Scraping, Data Modeling, and DC Comics.
 
+
+
 <div align="center">
   <h3>🛠️ Tech Arsenal & Tools</h3>
   
@@ -48,12 +50,14 @@ I'm a **Software Development student** at **FATEC** and a **Data Engineer** base
   <p><i>The "Moneyball" approach applied to eSports scouting using Unsupervised Learning.</i></p>
 
 <br>
-<a href="https://github.com/EduSoBarbosa/League-of-Legends-Moneyball">
-  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1600&auto=format&fit=crop" 
-       width="100%" 
-       style="border-radius: 8px; border: 2px solid #00ffff;">
-</a>
-<p><i>Illustrative image only</i></p>
+<div align="center">
+  <a href="https://github.com/EduSoBarbosa/League-of-Legends-Moneyball">
+    <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1600&auto=format&fit=crop" 
+         width="600" 
+         style="border-radius: 8px; border: 2px solid #00ffff;">
+  </a>
+  <p><i>Illustrative image only</i></p>
+</div>
 <br>
 
   <br><br>
@@ -84,9 +88,11 @@ I'm a **Software Development student** at **FATEC** and a **Data Engineer** base
 
 ---
 <br>
+<div align="center">
   <h3>📊 Data Operative Stats</h3>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduSoBarbosa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff&text_color=c9d1d9"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduSoBarbosa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9"/>
-  </a>
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=EduSoBarbosa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff&text_color=c9d1d9" />
+    </a>
+  </div>
 </div>
