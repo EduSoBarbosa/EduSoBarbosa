@@ -1,47 +1,67 @@
-# 🕵️‍♂️Eduardo de Sousa Barbosa
+<h1 align="center">Welcome to Eduardo's Github</h1>
 
-I'm a **Software Development student** at **FATEC** and a **Data Engineer** based in São Paulo, Brazil. My focus is on building robust automated pipelines and transforming raw data into actionable insights.
+<p align="center">
+  <img width="900" height="270" alt="edusobarbosa_github_banner" src="https://github.com/user-attachments/assets/ba8a79de-50fc-4358-bfb7-1908dcb284bc" />
+</p>
 
-**🎲Data Engineer | ETL • Airflow • SQL • Python • Docker**
-* 🔭 **Currently working on:** [League of Legends MoneyBall](https://github.com/EduSoBarbosa/League-of-Legends-Moneyball.git)(Esports scouting pipeline).
-* 🌱 **Leveling up in:** Docker, Airflow, and Cloud Infrastructure (AWS).
-* 🎯 **Career Objective:** Building a solid foundation in Brazil before taking my skills globally to Europe.
-* 💬 **Ask me about:** Web Scraping, Data Modeling, and DC Comics.
-
-
+<h2 align="center">🔧 Technologies</h2>
 
 <div align="center">
-  <h3>🛠️ Tech Arsenal & Tools</h3>
-  
-  <p><strong>Languages, Data Analysis & ML</strong></p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 
-  <br>
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=EE4C2C)
+![Scikit--Learn](https://img.shields.io/badge/-Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E)
+![Pandas](https://img.shields.io/badge/-Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458)
+![NumPy](https://img.shields.io/badge/-NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4169E1)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-000000?style=for-the-badge&logo=databricks&logoColor=white&labelColor=FF6F00)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white&labelColor=000000)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)
 
-  <p><strong>Orchestration & Infrastructure</strong></p>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-
-  <br>
-
-  <p><strong>Database</strong></p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-  <br>
-
-  <p><strong>Tools & IDEs</strong></p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </div>
 
 <br>
-<div align="center">
-<br>
-<div align="center">
-  
 
+<h2 align="center">📊 Statistics</h2>
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=EduSoBarbosa&show_icons=true&hide_border=true&bg_color=21181b&title_color=f2ab37&icon_color=cd5f2a&text_color=faf5d8" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=EduSoBarbosa&layout=compact&hide_border=true&bg_color=21181b&title_color=f2ab37&text_color=faf5d8" width="40%" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EduSoBarbosa&hide_border=true&background=21181b&ring=cd5f2a&fire=f2ab37&currStreakLabel=faf5d8&sideLabels=d8ae8b&currStreakNum=faf5d8&sideNums=faf5d8&dates=d8ae8b" width="60%" />
+
+</div>
+
+<br>
+
+<h2 align="center">👋 About Me</h2>
+
+<img align="left" width="180" style="border-radius:12px; margin-right: 20px;" src="https://github.com/user-attachments/assets/6ec2b270-63b8-491f-83cc-fbc5e9b15ac6" />
+
+Olá! Meu nome é **Eduardo Barbosa** e sou estudante de **Desenvolvimento de Software Multiplataforma** na Fatec. Atualmente dedico grande parte do meu tempo e esforço ao estudo de algoritmos de **Machine Learning** e **Deep Learning**.
+
+Tenho uma curiosidade quase científica: gosto de entender o funcionamento interno de cada problema, explorar como e por que as coisas funcionam, antes de desenvolver uma aplicação adequada.
+
+<br clear="left"/>
+
+<p align="center">
+Eu sempre estou estudando mais a cada dia e adicionando meu progresso tanto como projetos neste github tanto como anotações neste repositório: <a href="https://github.com/EduSoBarbosa/Estudos">Estudos</a>
+</p>
+
+<br>
+
+<h2 align="center">🎯 Hobbies & Goals</h2>
+
+<p align="center">
+Estudante de Engenharia/Desenvolvimento de Software na Fatec.<br>
+Em constante estudo prático de Deep Learning, unindo teoria e experimentação.
+</p>
+
+<p align="center">
+<a href="mailto:inteligencetda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" /></a>
+<a href="https://www.linkedin.com/in/eduardo-de-sousa-barbosa-3b3a19355"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" /></a>
+</p>
