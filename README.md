@@ -32,8 +32,6 @@
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EduSoBarbosa&hide_border=true&background=21181b&ring=cd5f2a&fire=f2ab37&currStreakLabel=faf5d8&sideLabels=d8ae8b&currStreakNum=faf5d8&sideNums=faf5d8&dates=d8ae8b" width="60%" />
-
 </div>
 
 <br>
