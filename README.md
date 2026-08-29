@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Eduardo's Github</h1>
+<h2 align="center">Python • Machine Learning • Deep Learning</h2>
 
 <p align="center">
   <img width="900" height="270" alt="edusobarbosa_github_banner" src="https://github.com/user-attachments/assets/ba8a79de-50fc-4358-bfb7-1908dcb284bc" />
@@ -42,7 +42,7 @@
 
 Olá! Meu nome é **Eduardo Barbosa** e sou estudante de **Desenvolvimento de Software Multiplataforma** na Fatec. Atualmente dedico grande parte do meu tempo e esforço ao estudo de algoritmos de **Machine Learning** e **Deep Learning**.
 
-Tenho uma curiosidade quase científica: gosto de entender o funcionamento interno de cada problema, explorar como e por que as coisas funcionam, antes de desenvolver uma aplicação adequada.
+Gosto de entender o que existe por trás das abstrações. Em vez de apenas descobrir como usar uma ferramenta, procuro entender por que ela funciona, como foi construída e quais são seus limites. É essa curiosidade que atualmente me leva a explorar Python, Machine Learning e Deep Learning.
 
 <br clear="left"/>
 
