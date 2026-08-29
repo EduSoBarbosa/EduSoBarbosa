@@ -52,11 +52,11 @@ Eu sempre estou estudando mais a cada dia e adicionando meu progresso tanto como
 
 <br>
 
-<h2 align="center">🎯 Hobbies & Goals</h2>
+<h2 align="center">📔 Reading</h2>
 
 <p align="center">
-Estudante de Engenharia/Desenvolvimento de Software na Fatec.<br>
-Em constante estudo prático de Deep Learning, unindo teoria e experimentação.
+  Livro 1: Mãos à Obra Aprendizado de Máquina com Scikit-Learn, Keras e TensorFlow <br>
+  Livro 2: Deep Learning with Pytorch Step-by-Step Volume I
 </p>
 
 <p align="center">
