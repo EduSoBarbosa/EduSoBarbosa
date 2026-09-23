@@ -9,15 +9,15 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=EE4C2C)
 ![Scikit--Learn](https://img.shields.io/badge/-Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E)
 ![Pandas](https://img.shields.io/badge/-Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458)
 ![NumPy](https://img.shields.io/badge/-NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4169E1)
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-000000?style=for-the-badge&logo=databricks&logoColor=white&labelColor=FF6F00)
-![Ollama](https://img.shields.io/badge/-Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white&labelColor=000000)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)
+![Power BI](https://img.shields.io/badge/-Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=F2C811)
+![Excel](https://img.shields.io/badge/-Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=217346)
+
 
 </div>
 
