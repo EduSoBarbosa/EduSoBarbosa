@@ -1,4 +1,4 @@
-<h2 align="center">Python • Machine Learning • Deep Learning</h2>
+<h2 align="center">Python • Machine Learning • Data Analytics</h2>
 
 <p align="center">
   <img width="900" height="270" alt="edusobarbosa_github_banner" src="https://github.com/user-attachments/assets/ba8a79de-50fc-4358-bfb7-1908dcb284bc" />
