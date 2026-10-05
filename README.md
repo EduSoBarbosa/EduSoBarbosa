@@ -129,8 +129,8 @@ dos badges e aos cartões de estatísticas; a tabela acompanha o tema do GitHub.
         manual do currículo antes do uso.
       </p>
       <p><img alt="IA aplicada" src="https://img.shields.io/badge/IA%20aplicada-19100D?style=for-the-badge&amp;logoColor=E53920" /> <img alt="LLMs" src="https://img.shields.io/badge/LLMs-19100D?style=for-the-badge&amp;logoColor=FF711A" /></p>
-      <!-- Substitua o endereço abaixo pelo link direto do repositório Work Adapter. -->
-      <p><a href="https://github.com/EduSoBarbosa?tab=repositories&amp;q=work"><strong>Encontrar repositório →</strong></a></p>
+      <!-- [Substitua o endereço abaixo pelo link direto do repositório Work Adapter.](https://github.com/EduSoBarbosa/WorkAdapter) -->
+      <p><a href="https://github.com/EduSoBarbosa/WorkAdapter.git"><strong>Encontrar repositório →</strong></a></p>
     </td>
   </tr>
 </table>
