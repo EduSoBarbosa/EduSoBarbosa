@@ -1,65 +1,185 @@
-<h2 align="center">Python • Machine Learning • Data Analytics</h2>
+<!--
+PALETA DO BANNER
+Fundo: #19100D | Vermelho: #E53920 | Laranja: #FF711A
+Amarelo: #FFB511 | Texto claro: #FAF5D8
 
+BANNER: substitua o bloco abaixo por:
 <p align="center">
-  <img width="900" height="270" alt="edusobarbosa_github_banner" src="https://github.com/user-attachments/assets/ba8a79de-50fc-4358-bfb7-1908dcb284bc" />
+  <img width="100%" alt="Banner de Eduardo Barbosa" src="URL_DO_SEU_BANNER" />
 </p>
 
-<h2 align="center">🔧 Technologies</h2>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
-![Scikit--Learn](https://img.shields.io/badge/-Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E)
-![Pandas](https://img.shields.io/badge/-Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458)
-![NumPy](https://img.shields.io/badge/-NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4169E1)
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)
-![Power BI](https://img.shields.io/badge/-Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=F2C811)
-![Excel](https://img.shields.io/badge/-Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=217346)
-
-
-</div>
-
-<br>
-
-<h2 align="center">📊 Statistics</h2>
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=EduSoBarbosa&show_icons=true&hide_border=true&bg_color=21181b&title_color=f2ab37&icon_color=cd5f2a&text_color=faf5d8" width="48%" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=EduSoBarbosa&layout=compact&hide_border=true&bg_color=21181b&title_color=f2ab37&text_color=faf5d8" width="40%" />
-
-<br>
-
-</div>
-
-<br>
-
-<h2 align="center">👋 About Me</h2>
-
-<img align="left" width="180" style="border-radius:12px; margin-right: 20px;" src="https://github.com/user-attachments/assets/6ec2b270-63b8-491f-83cc-fbc5e9b15ac6" />
-
-Olá! Meu nome é **Eduardo Barbosa** e sou estudante de **Desenvolvimento de Software Multiplataforma** na Fatec. Atualmente dedico grande parte do meu tempo e esforço ao estudo de algoritmos de **Machine Learning** e **Deep Learning**.
-
-Gosto de entender o que existe por trás das abstrações. Em vez de apenas descobrir como usar uma ferramenta, procuro entender por que ela funciona, como foi construída e quais são seus limites. É essa curiosidade que atualmente me leva a explorar Python, Machine Learning e Deep Learning.
-
-<br clear="left"/>
+O GitHub limita CSS em READMEs. As cores deste layout são aplicadas às imagens
+dos badges e aos cartões de estatísticas; a tabela acompanha o tema do GitHub.
+-->
 
 <p align="center">
-Eu sempre estou estudando mais a cada dia e adicionando meu progresso tanto como projetos neste github tanto como anotações neste repositório: <a href="https://github.com/EduSoBarbosa/Estudos">Estudos</a>
+  <strong>✦ <img width="2172" height="724" alt="Sem título" src="https://github.com/user-attachments/assets/f9854e65-b93c-4ace-9ba1-96e649bb971b" />
+ ✦</strong>
 </p>
 
-<br>
-
-<h2 align="center">📔 Reading</h2>
-
+<h1 align="center">Eduardo Barbosa</h1>
 <p align="center">
-  Livro 1: Mãos à Obra Aprendizado de Máquina com Scikit-Learn, Keras e TensorFlow <br>
-  Livro 2: Deep Learning with Pytorch Step-by-Step Volume I
+  <strong>Python · Machine Learning · Data Analytics</strong>
+</p>
+<p align="center">
+  Dados reais, curiosidade e aprendizado contínuo.
 </p>
 
 <p align="center">
-<a href="mailto:inteligencetda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" /></a>
-<a href="https://www.linkedin.com/in/eduardo-de-sousa-barbosa-3b3a19355"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" /></a>
+  <a href="mailto:inteligencetda@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-19100D?style=for-the-badge&amp;logo=gmail&amp;logoColor=E53920" /></a>
+  <a href="https://www.linkedin.com/in/eduardo-de-sousa-barbosa-3b3a19355"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-19100D?style=for-the-badge&amp;logoColor=FFB511" /></a>
+  <a href="https://github.com/EduSoBarbosa/Estudos"><img alt="Anotações de estudo" src="https://img.shields.io/badge/Anota%C3%A7%C3%B5es%20de%20estudo-19100D?style=for-the-badge&amp;logo=github&amp;logoColor=FF711A" /></a>
+</p>
+
+<hr />
+
+<h2>01 · Sobre mim</h2>
+
+<p>
+  Olá! Sou <strong>Eduardo Barbosa</strong>, estudante de
+  <strong>Desenvolvimento de Software Multiplataforma na Fatec Luigi Papaiz</strong>.
+  Meu foco está em <strong>análise de dados, Machine Learning e Deep Learning</strong>,
+  usando Python para explorar dados, identificar padrões e construir modelos.
+</p>
+<p>
+  Gosto de entender o que existe por trás das abstrações: por que um algoritmo
+  funciona, como foi construído e quais são seus limites. Prefiro trabalhar
+  com dados reais e transformar o que estudo em projetos com análises,
+  experimentos e resultados documentados.
+</p>
+<p>
+  Busco uma <strong>oportunidade de estágio na área de dados</strong>.
+  Registro parte do meu aprendizado no repositório
+  <a href="https://github.com/EduSoBarbosa/Estudos"><strong>Estudos</strong></a>.
+</p>
+
+<h2>02 · Tecnologias</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th align="left" width="260">Categoria</th>
+      <th align="left" width="640">Tecnologias</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Linguagem</strong></td>
+      <td><img alt="Python" src="https://img.shields.io/badge/Python-19100D?style=for-the-badge&amp;logo=python&amp;logoColor=FFB511" /></td>
+    </tr>
+    <tr>
+      <td><strong>Machine Learning &amp; Deep Learning</strong></td>
+      <td><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-19100D?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=FF711A" />
+          <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-19100D?style=for-the-badge&amp;logo=pytorch&amp;logoColor=FF711A" /></td>
+    </tr>
+    <tr>
+      <td><strong>Análise de dados</strong></td>
+      <td><img alt="Pandas" src="https://img.shields.io/badge/Pandas-19100D?style=for-the-badge&amp;logo=pandas&amp;logoColor=E53920" />
+          <img alt="NumPy" src="https://img.shields.io/badge/NumPy-19100D?style=for-the-badge&amp;logo=numpy&amp;logoColor=E53920" /></td>
+    </tr>
+    <tr>
+      <td><strong>Visualização &amp; Business Intelligence</strong></td>
+      <td><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-19100D?style=for-the-badge&amp;logoColor=FFB511" />
+          <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-19100D?style=for-the-badge&amp;logoColor=FFB511" />
+          <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-19100D?style=for-the-badge&amp;logoColor=FFB511" />
+          <img alt="Excel" src="https://img.shields.io/badge/Excel-19100D?style=for-the-badge&amp;logoColor=FFB511" /></td>
+    </tr>
+    <tr>
+      <td><strong>Banco de dados</strong></td>
+      <td><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-19100D?style=for-the-badge&amp;logo=postgresql&amp;logoColor=FF711A" />
+          <img alt="SQLite" src="https://img.shields.io/badge/SQLite-19100D?style=for-the-badge&amp;logo=sqlite&amp;logoColor=FF711A" /></td>
+    </tr>
+    <tr>
+      <td><strong>Ferramentas &amp; ambiente</strong></td>
+      <td><img alt="Git" src="https://img.shields.io/badge/Git-19100D?style=for-the-badge&amp;logo=git&amp;logoColor=E53920" />
+          <img alt="GitHub" src="https://img.shields.io/badge/GitHub-19100D?style=for-the-badge&amp;logo=github&amp;logoColor=E53920" />
+          <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-19100D?style=for-the-badge&amp;logo=jupyter&amp;logoColor=E53920" />
+          <img alt="Linux" src="https://img.shields.io/badge/Linux-19100D?style=for-the-badge&amp;logo=linux&amp;logoColor=E53920" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>03 · Projetos em destaque</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/EduSoBarbosa/RiftCluster">RiftCluster</a></h3>
+      <p><strong>Análise de dados + Machine Learning</strong></p>
+      <p>
+        Projeto com dados de League of Legends que combina análise exploratória
+        e modelos de agrupamento para investigar padrões nos dados do jogo.
+      </p>
+      <p>
+        Um espaço para conectar visualizações, interpretação de clusters
+        e construção de modelos.
+      </p>
+      <p><img alt="Data Analytics" src="https://img.shields.io/badge/Data%20Analytics-19100D?style=for-the-badge&amp;logoColor=FFB511" /> <img alt="Clustering" src="https://img.shields.io/badge/Clustering-19100D?style=for-the-badge&amp;logoColor=FF711A" /></p>
+      <p><a href="https://github.com/EduSoBarbosa/RiftCluster"><strong>Explorar projeto →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Work Adapter</h3>
+      <p><strong>Inteligência artificial aplicada</strong></p>
+      <p>
+        Aplicação que usa modelos de linguagem para apoiar a adaptação
+        de currículos a vagas, a partir das informações do perfil do usuário.
+      </p>
+      <p>
+        Explora geração estruturada e validação de conteúdo, com revisão
+        manual do currículo antes do uso.
+      </p>
+      <p><img alt="IA aplicada" src="https://img.shields.io/badge/IA%20aplicada-19100D?style=for-the-badge&amp;logoColor=E53920" /> <img alt="LLMs" src="https://img.shields.io/badge/LLMs-19100D?style=for-the-badge&amp;logoColor=FF711A" /></p>
+      <!-- Substitua o endereço abaixo pelo link direto do repositório Work Adapter. -->
+      <p><a href="https://github.com/EduSoBarbosa?tab=repositories&amp;q=work"><strong>Encontrar repositório →</strong></a></p>
+    </td>
+  </tr>
+</table>
+
+<h2>04 · Leituras atuais</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th align="left" width="510">Livro</th>
+      <th align="left" width="390">Foco de estudo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong>Hands-On Machine Learning with Scikit-Learn, Keras &amp; TensorFlow</strong>
+        <br /><sub>Aurélien Géron</sub>
+      </td>
+      <td>
+        Preparação de dados, algoritmos de Machine Learning,
+        avaliação de modelos e redes neurais.
+        <br /><br /><img alt="Em leitura" src="https://img.shields.io/badge/Em%20leitura-19100D?style=for-the-badge&amp;logoColor=FFB511" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Deep Learning with PyTorch Step-by-Step · Volume I</strong>
+        <br /><sub>Daniel Voigt Godoy</sub>
+      </td>
+      <td>
+        Fundamentos de Deep Learning, gradientes e
+        construção de modelos com PyTorch.
+        <br /><br /><img alt="Em leitura" src="https://img.shields.io/badge/Em%20leitura-19100D?style=for-the-badge&amp;logoColor=FF711A" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>05 · Atividade no GitHub</h2>
+
+<!-- Estes cartões dependem de um serviço externo e podem ficar indisponíveis. -->
+<p align="center">
+  <img width="52%" alt="Estatísticas do GitHub de Eduardo Barbosa" src="https://github-stats-extended.vercel.app/api?username=EduSoBarbosa&amp;show_icons=true&amp;hide_border=true&amp;bg_color=19100D&amp;title_color=FFB511&amp;icon_color=FF711A&amp;text_color=FAF5D8" />
+  <img width="43%" alt="Linguagens mais usadas nos repositórios" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EduSoBarbosa&amp;layout=compact&amp;hide_border=true&amp;bg_color=19100D&amp;title_color=FFB511&amp;text_color=FAF5D8" />
+</p>
+
+<hr />
+
+<p align="center">
+  <sub>Entender os dados. Investigar os modelos. Compartilhar o aprendizado.</sub>
 </p>
